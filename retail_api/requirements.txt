@@ -1,0 +1,9 @@
+# https://pypi.org/project/fastapi
+fastapi[standard]==0.116.1
+
+# https://pypi.org/project/uvicorn
+uvicorn==0.35.0
+
+Flask==2.2.2
+Werkzeug==2.3.8
+google-cloud-retail==2.7.0
