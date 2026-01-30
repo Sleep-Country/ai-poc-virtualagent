@@ -6,6 +6,6 @@ uvicorn==0.35.0
 
 python-multipart
 
-Flask==2.2.2
-Werkzeug==2.3.8
+Flask==2.2.5
+Werkzeug==3.1.5
 google-cloud-retail==2.7.0
